@@ -1,14 +1,14 @@
 # Recept
 ## Ett enkelt recept till god guacamole
 
-# Ingredients:
+### Ingredients:
 - 2 Avocados
 - 1 Lime
 - 2 tsp Salt
 - 1 onion
 - 1 Jalapeño
 
-# Instructions:
+### Instructions:
 - cut and mash the avocados
 - chop the onion
 - chop the jalapeño
